@@ -1,5 +1,7 @@
 $(document).ready(function(event) {
 
-    // code ...
+    let scroll_top=$(".scroll-top");
+    scroll_top.hide("slow");
+    $(window.scroll)
 
 });
